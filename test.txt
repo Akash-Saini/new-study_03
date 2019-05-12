@@ -2,3 +2,5 @@
  i m first file.
 
  edit after commit
+ 
+ i m exitin
